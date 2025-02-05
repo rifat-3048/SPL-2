@@ -47,9 +47,11 @@ Clone the Repository
 git clone https://github.com/rifat-3048/SPL-2.git
 cd SPL-2
 
-Install Dependencies
+Install Dependencies:
 
-npm install
+sudo apt insrall pyhton3
+pip install pyhton3
+pip install flask
 cd client && npm install
 
 Set Up Environment Variables
@@ -84,5 +86,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 
-For any queries or contributions, feel free to reach out via email@example.com.
+For any queries or contributions, feel free to reach out via bsse1428@iit.du.ac.bd or bsse1410@iit.du.ac.bd.
 
